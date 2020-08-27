@@ -51,7 +51,7 @@ public class DemoController extends BaseController {
 
     /**
      * @Descripton: 根据id查询
-     * @Author: Sorin
+     * @Author: Sorin 1
      * @param id
      * @Date: 2018/3/22
      */
